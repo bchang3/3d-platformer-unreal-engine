@@ -1,2 +1,3 @@
-# MP2_LevelDesign_CS415
- MP 2 for CS 415 - Level design
+# Unreal Engine Level Design!
+
+Starter game with controllable 3D character (basic movement + flying), SFX, AI  chasing enemies, targeting cannons, coin collectibles, and game over + game complete screen!
